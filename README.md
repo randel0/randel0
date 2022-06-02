@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @randel0
 - 👀 I’m interested in vintage synthesizers and sailing
 - 🌱 I’m currently learning to code well with others
-- 💞️ I’m looking to collaborate on projects involving analog synthesis and MNEA2K instrumentation
+- 💞️ I’m looking to collaborate on projects involving analog synthesis and NMEA2K instrumentation
 - 📫 How to reach me randel@redshift-consulting.com
 
 <!---
